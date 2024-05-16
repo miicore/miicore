@@ -1,4 +1,4 @@
-<img style="float: right;" src=".github/assets/banner.jpg" width="40%" height="40%" />
+<img style="float: right;" src="/banner.jpg" width="40%" height="40%" />
 
 ### Hi there 👋
 
